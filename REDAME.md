@@ -1,1 +1,0 @@
-# 3rd_ Hellow World My1stRepo
